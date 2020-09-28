@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CustomerFeedback</string>
+    <string name="f1">Customer Feedback</string>
+    <string name="name">Enter name....</string>
+    <string name="email">EnterEmail...</string>
+    <string name="msg">Enter reviews...</string>
+    <string name="b1">SEND</string>
+    <string name="b2">EDIT</string>
+    <string name="msg2">updateName</string>
+    <string name="msg3">updateEmail</string>
+    <string name="msg4">updateMessage</string>
+    <string name="b3">UPDATE</string>
+    <string name="b4">DELETE</string>
+    <string name="f2">UpdateFeedback</string>
+</resources>
